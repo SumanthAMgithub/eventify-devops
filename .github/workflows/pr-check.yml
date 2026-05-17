@@ -1,8 +1,11 @@
 # ============================================
-# PR Check — Validate on Pull Requests
+# PR Check — Validate Pull Requests
 # ============================================
-# Runs lint + build on PRs to catch issues early
-# Does NOT deploy or push Docker images
+# Runs on PRs to main. Validates:
+#   1. Lint passes
+#   2. Next.js build succeeds
+#   3. Docker image builds
+# Does NOT deploy or push anything.
 # ============================================
 
 name: PR Check
@@ -11,9 +14,14 @@ on:
   pull_request:
     branches: [main]
 
+# Cancel previous PR check runs for same PR
+concurrency:
+  group: pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
 jobs:
   validate:
-    name: Validate PR
+    name: ✅ Validate PR
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -34,16 +42,20 @@ jobs:
       - name: Build check
         run: npm run build
         env:
-          NEXT_PUBLIC_CONVEX_URL: https://placeholder.convex.cloud
-          NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY: pk_test_placeholder
+          # PR builds use real secrets (available in PRs from same repo)
+          # Falls back to placeholders for external PRs (forks)
+          NEXT_PUBLIC_CONVEX_URL: ${{ secrets.NEXT_PUBLIC_CONVEX_URL || 'https://placeholder.convex.cloud' }}
+          NEXT_PUBLIC_CONVEX_SITE_URL: ${{ secrets.NEXT_PUBLIC_CONVEX_SITE_URL || 'https://placeholder.convex.site' }}
+          NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY: ${{ secrets.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY || 'pk_test_placeholder' }}
           NEXT_PUBLIC_CLERK_SIGN_IN_URL: /sign-in
           NEXT_PUBLIC_CLERK_SIGN_UP_URL: /sign-up
-          NEXT_PUBLIC_UNSPLASH_ACCESS_KEY: placeholder
+          NEXT_PUBLIC_UNSPLASH_ACCESS_KEY: ${{ secrets.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY || 'placeholder' }}
 
       - name: Docker build check
         run: |
           docker build \
-            --build-arg NEXT_PUBLIC_CONVEX_URL=https://placeholder.convex.cloud \
-            --build-arg NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_placeholder \
-            --build-arg NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=placeholder \
+            --build-arg NEXT_PUBLIC_CONVEX_URL=${{ secrets.NEXT_PUBLIC_CONVEX_URL || 'https://placeholder.convex.cloud' }} \
+            --build-arg NEXT_PUBLIC_CONVEX_SITE_URL=${{ secrets.NEXT_PUBLIC_CONVEX_SITE_URL || 'https://placeholder.convex.site' }} \
+            --build-arg NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=${{ secrets.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY || 'pk_test_placeholder' }} \
+            --build-arg NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=${{ secrets.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY || 'placeholder' }} \
             -t eventify:pr-test .
