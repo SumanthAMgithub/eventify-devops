@@ -22,7 +22,7 @@ services:
       - CLERK_JWT_ISSUER_DOMAIN=${CLERK_JWT_ISSUER_DOMAIN}
       - GEMINI_API_KEY=${GEMINI_API_KEY}
     healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/"]
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://127.0.0.1:3000/"]
       interval: 30s
       timeout: 10s
       retries: 3

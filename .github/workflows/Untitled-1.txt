@@ -1,0 +1,555 @@
+[Skip to content](https://github.com/SumanthAMgithub/eventify-devops/actions#start-of-content)
+
+## Navigation Menu
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSumanthAMgithub%2Feventify-devops%2Factions)
+- PlatformAI CODE CREATION[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)[GitHub ModelsManage and compare prompts](https://github.com/features/models)[MCP RegistryNewIntegrate external tools](https://github.com/mcp)DEVELOPER WORKFLOWS[ActionsAutomate any workflow](https://github.com/features/actions)[CodespacesInstant dev environments](https://github.com/features/codespaces)[IssuesPlan and track work](https://github.com/features/issues)[Code ReviewManage code changes](https://github.com/features/code-review)APPLICATION SECURITY[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)EXPLORE[Why GitHub](https://github.com/why-github)[Documentation](https://docs.github.com)[Blog](https://github.blog)[Changelog](https://github.blog/changelog)[Marketplace](https://github.com/marketplace)[View all features](https://github.com/features)
+- AI CODE CREATION[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)[GitHub ModelsManage and compare prompts](https://github.com/features/models)[MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+- [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+- [GitHub ModelsManage and compare prompts](https://github.com/features/models)
+- [MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- DEVELOPER WORKFLOWS[ActionsAutomate any workflow](https://github.com/features/actions)[CodespacesInstant dev environments](https://github.com/features/codespaces)[IssuesPlan and track work](https://github.com/features/issues)[Code ReviewManage code changes](https://github.com/features/code-review)
+- [ActionsAutomate any workflow](https://github.com/features/actions)
+- [CodespacesInstant dev environments](https://github.com/features/codespaces)
+- [IssuesPlan and track work](https://github.com/features/issues)
+- [Code ReviewManage code changes](https://github.com/features/code-review)
+- APPLICATION SECURITY[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+- [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+- [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- EXPLORE[Why GitHub](https://github.com/why-github)[Documentation](https://docs.github.com)[Blog](https://github.blog)[Changelog](https://github.blog/changelog)[Marketplace](https://github.com/marketplace)
+- [Why GitHub](https://github.com/why-github)
+- [Documentation](https://docs.github.com)
+- [Blog](https://github.blog)
+- [Changelog](https://github.blog/changelog)
+- [Marketplace](https://github.com/marketplace)
+
+## Navigation Menu
+
+- SolutionsBY COMPANY SIZE[Enterprises](https://github.com/enterprise)[Small and medium teams](https://github.com/team)[Startups](https://github.com/enterprise/startups)[Nonprofits](https://github.com/solutions/industry/nonprofits)BY USE CASE[App Modernization](https://github.com/solutions/use-case/app-modernization)[DevSecOps](https://github.com/solutions/use-case/devsecops)[DevOps](https://github.com/solutions/use-case/devops)[CI/CD](https://github.com/solutions/use-case/ci-cd)[View all use cases](https://github.com/solutions/use-case)BY INDUSTRY[Healthcare](https://github.com/solutions/industry/healthcare)[Financial services](https://github.com/solutions/industry/financial-services)[Manufacturing](https://github.com/solutions/industry/manufacturing)[Government](https://github.com/solutions/industry/government)[View all industries](https://github.com/solutions/industry)[View all solutions](https://github.com/solutions)
+- BY COMPANY SIZE[Enterprises](https://github.com/enterprise)[Small and medium teams](https://github.com/team)[Startups](https://github.com/enterprise/startups)[Nonprofits](https://github.com/solutions/industry/nonprofits)
+- [Enterprises](https://github.com/enterprise)
+- [Small and medium teams](https://github.com/team)
+- [Startups](https://github.com/enterprise/startups)
+- [Nonprofits](https://github.com/solutions/industry/nonprofits)
+- BY USE CASE[App Modernization](https://github.com/solutions/use-case/app-modernization)[DevSecOps](https://github.com/solutions/use-case/devsecops)[DevOps](https://github.com/solutions/use-case/devops)[CI/CD](https://github.com/solutions/use-case/ci-cd)[View all use cases](https://github.com/solutions/use-case)
+- [App Modernization](https://github.com/solutions/use-case/app-modernization)
+- [DevSecOps](https://github.com/solutions/use-case/devsecops)
+- [DevOps](https://github.com/solutions/use-case/devops)
+- [CI/CD](https://github.com/solutions/use-case/ci-cd)
+- [View all use cases](https://github.com/solutions/use-case)
+- BY INDUSTRY[Healthcare](https://github.com/solutions/industry/healthcare)[Financial services](https://github.com/solutions/industry/financial-services)[Manufacturing](https://github.com/solutions/industry/manufacturing)[Government](https://github.com/solutions/industry/government)[View all industries](https://github.com/solutions/industry)
+- [Healthcare](https://github.com/solutions/industry/healthcare)
+- [Financial services](https://github.com/solutions/industry/financial-services)
+- [Manufacturing](https://github.com/solutions/industry/manufacturing)
+- [Government](https://github.com/solutions/industry/government)
+- [View all industries](https://github.com/solutions/industry)
+- ResourcesEXPLORE BY TOPIC[AI](https://github.com/resources/articles?topic=ai)[Software Development](https://github.com/resources/articles?topic=software-development)[DevOps](https://github.com/resources/articles?topic=devops)[Security](https://github.com/resources/articles?topic=security)[View all topics](https://github.com/resources/articles)EXPLORE BY TYPE[Customer stories](https://github.com/customer-stories)[Events & webinars](https://github.com/resources/events)[Ebooks & reports](https://github.com/resources/whitepapers)[Business insights](https://github.com/solutions/executive-insights)[GitHub Skills](https://skills.github.com)SUPPORT & SERVICES[Documentation](https://docs.github.com)[Customer support](https://support.github.com)[Community forum](https://github.com/orgs/community/discussions)[Trust center](https://github.com/trust-center)[Partners](https://github.com/partners)[View all resources](https://github.com/resources)
+- EXPLORE BY TOPIC[AI](https://github.com/resources/articles?topic=ai)[Software Development](https://github.com/resources/articles?topic=software-development)[DevOps](https://github.com/resources/articles?topic=devops)[Security](https://github.com/resources/articles?topic=security)[View all topics](https://github.com/resources/articles)
+- [AI](https://github.com/resources/articles?topic=ai)
+- [Software Development](https://github.com/resources/articles?topic=software-development)
+- [DevOps](https://github.com/resources/articles?topic=devops)
+- [Security](https://github.com/resources/articles?topic=security)
+- [View all topics](https://github.com/resources/articles)
+
+## Navigation Menu
+
+- EXPLORE BY TYPE[Customer stories](https://github.com/customer-stories)[Events & webinars](https://github.com/resources/events)[Ebooks & reports](https://github.com/resources/whitepapers)[Business insights](https://github.com/solutions/executive-insights)[GitHub Skills](https://skills.github.com)
+- [Customer stories](https://github.com/customer-stories)
+- [Events & webinars](https://github.com/resources/events)
+- [Ebooks & reports](https://github.com/resources/whitepapers)
+- [Business insights](https://github.com/solutions/executive-insights)
+- [GitHub Skills](https://skills.github.com)
+- SUPPORT & SERVICES[Documentation](https://docs.github.com)[Customer support](https://support.github.com)[Community forum](https://github.com/orgs/community/discussions)[Trust center](https://github.com/trust-center)[Partners](https://github.com/partners)
+- [Documentation](https://docs.github.com)
+- [Customer support](https://support.github.com)
+- [Community forum](https://github.com/orgs/community/discussions)
+- [Trust center](https://github.com/trust-center)
+- [Partners](https://github.com/partners)
+- Open SourceCOMMUNITY[GitHub SponsorsFund open source developers](https://github.com/sponsors)PROGRAMS[Security Lab](https://securitylab.github.com)[Maintainer Community](https://maintainers.github.com)[Accelerator](https://github.com/accelerator)[GitHub Stars](https://stars.github.com)[Archive Program](https://archiveprogram.github.com)REPOSITORIES[Topics](https://github.com/topics)[Trending](https://github.com/trending)[Collections](https://github.com/collections)
+- COMMUNITY[GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- [GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- PROGRAMS[Security Lab](https://securitylab.github.com)[Maintainer Community](https://maintainers.github.com)[Accelerator](https://github.com/accelerator)[GitHub Stars](https://stars.github.com)[Archive Program](https://archiveprogram.github.com)
+- [Security Lab](https://securitylab.github.com)
+- [Maintainer Community](https://maintainers.github.com)
+- [Accelerator](https://github.com/accelerator)
+- [GitHub Stars](https://stars.github.com)
+- [Archive Program](https://archiveprogram.github.com)
+- REPOSITORIES[Topics](https://github.com/topics)[Trending](https://github.com/trending)[Collections](https://github.com/collections)
+- [Topics](https://github.com/topics)
+- [Trending](https://github.com/trending)
+- [Collections](https://github.com/collections)
+- EnterpriseENTERPRISE SOLUTIONS[Enterprise platformAI-powered developer platform](https://github.com/enterprise)AVAILABLE ADD-ONS[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- ENTERPRISE SOLUTIONS[Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- [Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- AVAILABLE ADD-ONS[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+- [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+- [Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [Pricing](https://github.com/pricing)
+- AI CODE CREATION[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)[GitHub ModelsManage and compare prompts](https://github.com/features/models)[MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+- [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+- [GitHub ModelsManage and compare prompts](https://github.com/features/models)
+- [MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+
+## Navigation Menu
+
+- DEVELOPER WORKFLOWS[ActionsAutomate any workflow](https://github.com/features/actions)[CodespacesInstant dev environments](https://github.com/features/codespaces)[IssuesPlan and track work](https://github.com/features/issues)[Code ReviewManage code changes](https://github.com/features/code-review)
+- [ActionsAutomate any workflow](https://github.com/features/actions)
+- [CodespacesInstant dev environments](https://github.com/features/codespaces)
+- [IssuesPlan and track work](https://github.com/features/issues)
+- [Code ReviewManage code changes](https://github.com/features/code-review)
+- APPLICATION SECURITY[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+- [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+- [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- EXPLORE[Why GitHub](https://github.com/why-github)[Documentation](https://docs.github.com)[Blog](https://github.blog)[Changelog](https://github.blog/changelog)[Marketplace](https://github.com/marketplace)
+- [Why GitHub](https://github.com/why-github)
+- [Documentation](https://docs.github.com)
+- [Blog](https://github.blog)
+- [Changelog](https://github.blog/changelog)
+- [Marketplace](https://github.com/marketplace)
+- [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+- [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+- [GitHub ModelsManage and compare prompts](https://github.com/features/models)
+- [MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+[GitHub ModelsManage and compare prompts](https://github.com/features/models)
+[MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- [ActionsAutomate any workflow](https://github.com/features/actions)
+- [CodespacesInstant dev environments](https://github.com/features/codespaces)
+- [IssuesPlan and track work](https://github.com/features/issues)
+- [Code ReviewManage code changes](https://github.com/features/code-review)
+[ActionsAutomate any workflow](https://github.com/features/actions)
+[CodespacesInstant dev environments](https://github.com/features/codespaces)
+[IssuesPlan and track work](https://github.com/features/issues)
+[Code ReviewManage code changes](https://github.com/features/code-review)
+- [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+- [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+- [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- [Why GitHub](https://github.com/why-github)
+- [Documentation](https://docs.github.com)
+- [Blog](https://github.blog)
+- [Changelog](https://github.blog/changelog)
+- [Marketplace](https://github.com/marketplace)
+[Why GitHub](https://github.com/why-github)
+[Documentation](https://docs.github.com)
+[Blog](https://github.blog)
+[Changelog](https://github.blog/changelog)
+[Marketplace](https://github.com/marketplace)
+[View all features](https://github.com/features)
+- BY COMPANY SIZE[Enterprises](https://github.com/enterprise)[Small and medium teams](https://github.com/team)[Startups](https://github.com/enterprise/startups)[Nonprofits](https://github.com/solutions/industry/nonprofits)
+- [Enterprises](https://github.com/enterprise)
+- [Small and medium teams](https://github.com/team)
+- [Startups](https://github.com/enterprise/startups)
+- [Nonprofits](https://github.com/solutions/industry/nonprofits)
+
+## Navigation Menu
+
+- BY USE CASE[App Modernization](https://github.com/solutions/use-case/app-modernization)[DevSecOps](https://github.com/solutions/use-case/devsecops)[DevOps](https://github.com/solutions/use-case/devops)[CI/CD](https://github.com/solutions/use-case/ci-cd)[View all use cases](https://github.com/solutions/use-case)
+- [App Modernization](https://github.com/solutions/use-case/app-modernization)
+- [DevSecOps](https://github.com/solutions/use-case/devsecops)
+- [DevOps](https://github.com/solutions/use-case/devops)
+- [CI/CD](https://github.com/solutions/use-case/ci-cd)
+- [View all use cases](https://github.com/solutions/use-case)
+- BY INDUSTRY[Healthcare](https://github.com/solutions/industry/healthcare)[Financial services](https://github.com/solutions/industry/financial-services)[Manufacturing](https://github.com/solutions/industry/manufacturing)[Government](https://github.com/solutions/industry/government)[View all industries](https://github.com/solutions/industry)
+- [Healthcare](https://github.com/solutions/industry/healthcare)
+- [Financial services](https://github.com/solutions/industry/financial-services)
+- [Manufacturing](https://github.com/solutions/industry/manufacturing)
+- [Government](https://github.com/solutions/industry/government)
+- [View all industries](https://github.com/solutions/industry)
+- [Enterprises](https://github.com/enterprise)
+- [Small and medium teams](https://github.com/team)
+- [Startups](https://github.com/enterprise/startups)
+- [Nonprofits](https://github.com/solutions/industry/nonprofits)
+[Enterprises](https://github.com/enterprise)
+[Small and medium teams](https://github.com/team)
+[Startups](https://github.com/enterprise/startups)
+[Nonprofits](https://github.com/solutions/industry/nonprofits)
+- [App Modernization](https://github.com/solutions/use-case/app-modernization)
+- [DevSecOps](https://github.com/solutions/use-case/devsecops)
+- [DevOps](https://github.com/solutions/use-case/devops)
+- [CI/CD](https://github.com/solutions/use-case/ci-cd)
+- [View all use cases](https://github.com/solutions/use-case)
+[App Modernization](https://github.com/solutions/use-case/app-modernization)
+[DevSecOps](https://github.com/solutions/use-case/devsecops)
+[DevOps](https://github.com/solutions/use-case/devops)
+[CI/CD](https://github.com/solutions/use-case/ci-cd)
+[View all use cases](https://github.com/solutions/use-case)
+- [Healthcare](https://github.com/solutions/industry/healthcare)
+- [Financial services](https://github.com/solutions/industry/financial-services)
+- [Manufacturing](https://github.com/solutions/industry/manufacturing)
+- [Government](https://github.com/solutions/industry/government)
+- [View all industries](https://github.com/solutions/industry)
+[Healthcare](https://github.com/solutions/industry/healthcare)
+[Financial services](https://github.com/solutions/industry/financial-services)
+[Manufacturing](https://github.com/solutions/industry/manufacturing)
+[Government](https://github.com/solutions/industry/government)
+[View all industries](https://github.com/solutions/industry)
+[View all solutions](https://github.com/solutions)
+- EXPLORE BY TOPIC[AI](https://github.com/resources/articles?topic=ai)[Software Development](https://github.com/resources/articles?topic=software-development)[DevOps](https://github.com/resources/articles?topic=devops)[Security](https://github.com/resources/articles?topic=security)[View all topics](https://github.com/resources/articles)
+- [AI](https://github.com/resources/articles?topic=ai)
+- [Software Development](https://github.com/resources/articles?topic=software-development)
+- [DevOps](https://github.com/resources/articles?topic=devops)
+- [Security](https://github.com/resources/articles?topic=security)
+- [View all topics](https://github.com/resources/articles)
+- EXPLORE BY TYPE[Customer stories](https://github.com/customer-stories)[Events & webinars](https://github.com/resources/events)[Ebooks & reports](https://github.com/resources/whitepapers)[Business insights](https://github.com/solutions/executive-insights)[GitHub Skills](https://skills.github.com)
+- [Customer stories](https://github.com/customer-stories)
+- [Events & webinars](https://github.com/resources/events)
+- [Ebooks & reports](https://github.com/resources/whitepapers)
+- [Business insights](https://github.com/solutions/executive-insights)
+- [GitHub Skills](https://skills.github.com)
+
+## Navigation Menu
+
+- SUPPORT & SERVICES[Documentation](https://docs.github.com)[Customer support](https://support.github.com)[Community forum](https://github.com/orgs/community/discussions)[Trust center](https://github.com/trust-center)[Partners](https://github.com/partners)
+- [Documentation](https://docs.github.com)
+- [Customer support](https://support.github.com)
+- [Community forum](https://github.com/orgs/community/discussions)
+- [Trust center](https://github.com/trust-center)
+- [Partners](https://github.com/partners)
+- [AI](https://github.com/resources/articles?topic=ai)
+- [Software Development](https://github.com/resources/articles?topic=software-development)
+- [DevOps](https://github.com/resources/articles?topic=devops)
+- [Security](https://github.com/resources/articles?topic=security)
+- [View all topics](https://github.com/resources/articles)
+[AI](https://github.com/resources/articles?topic=ai)
+[Software Development](https://github.com/resources/articles?topic=software-development)
+[DevOps](https://github.com/resources/articles?topic=devops)
+[Security](https://github.com/resources/articles?topic=security)
+[View all topics](https://github.com/resources/articles)
+- [Customer stories](https://github.com/customer-stories)
+- [Events & webinars](https://github.com/resources/events)
+- [Ebooks & reports](https://github.com/resources/whitepapers)
+- [Business insights](https://github.com/solutions/executive-insights)
+- [GitHub Skills](https://skills.github.com)
+[Customer stories](https://github.com/customer-stories)
+[Events & webinars](https://github.com/resources/events)
+[Ebooks & reports](https://github.com/resources/whitepapers)
+[Business insights](https://github.com/solutions/executive-insights)
+[GitHub Skills](https://skills.github.com)
+- [Documentation](https://docs.github.com)
+- [Customer support](https://support.github.com)
+- [Community forum](https://github.com/orgs/community/discussions)
+- [Trust center](https://github.com/trust-center)
+- [Partners](https://github.com/partners)
+[Documentation](https://docs.github.com)
+[Customer support](https://support.github.com)
+[Community forum](https://github.com/orgs/community/discussions)
+[Trust center](https://github.com/trust-center)
+[Partners](https://github.com/partners)
+[View all resources](https://github.com/resources)
+- COMMUNITY[GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- [GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- PROGRAMS[Security Lab](https://securitylab.github.com)[Maintainer Community](https://maintainers.github.com)[Accelerator](https://github.com/accelerator)[GitHub Stars](https://stars.github.com)[Archive Program](https://archiveprogram.github.com)
+- [Security Lab](https://securitylab.github.com)
+- [Maintainer Community](https://maintainers.github.com)
+- [Accelerator](https://github.com/accelerator)
+- [GitHub Stars](https://stars.github.com)
+- [Archive Program](https://archiveprogram.github.com)
+- REPOSITORIES[Topics](https://github.com/topics)[Trending](https://github.com/trending)[Collections](https://github.com/collections)
+- [Topics](https://github.com/topics)
+- [Trending](https://github.com/trending)
+- [Collections](https://github.com/collections)
+- [GitHub SponsorsFund open source developers](https://github.com/sponsors)
+[GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- [Security Lab](https://securitylab.github.com)
+- [Maintainer Community](https://maintainers.github.com)
+- [Accelerator](https://github.com/accelerator)
+- [GitHub Stars](https://stars.github.com)
+- [Archive Program](https://archiveprogram.github.com)
+[Security Lab](https://securitylab.github.com)
+[Maintainer Community](https://maintainers.github.com)
+[Accelerator](https://github.com/accelerator)
+[GitHub Stars](https://stars.github.com)
+[Archive Program](https://archiveprogram.github.com)
+- [Topics](https://github.com/topics)
+- [Trending](https://github.com/trending)
+- [Collections](https://github.com/collections)
+[Topics](https://github.com/topics)
+[Trending](https://github.com/trending)
+[Collections](https://github.com/collections)
+- ENTERPRISE SOLUTIONS[Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- [Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+
+## Navigation Menu
+
+- AVAILABLE ADD-ONS[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+- [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+- [Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+[Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+- [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+- [Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+[Pricing](https://github.com/pricing)
+
+# Search code, repositories, users, issues, pull requests...
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+# Provide feedback
+We read every piece of feedback, and take your input very seriously.
+
+## Use saved searches to filter your results more quickly
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSumanthAMgithub%2Feventify-devops%2Factions)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Factions%2Findex&source=header-repo&source_repo=SumanthAMgithub%2Feventify-devops)
+[Reload](https://github.com/SumanthAMgithub/eventify-devops/actions)
+[Reload](https://github.com/SumanthAMgithub/eventify-devops/actions)
+[Reload](https://github.com/SumanthAMgithub/eventify-devops/actions)
+[SumanthAMgithub](https://github.com/SumanthAMgithub)
+[eventify-devops](https://github.com/SumanthAMgithub/eventify-devops)
+- 
+            [Notifications](https://github.com/login?return_to=%2FSumanthAMgithub%2Feventify-devops)    You must be signed in to change notification settings
+
+
+- 
+          [Fork
+    0](https://github.com/login?return_to=%2FSumanthAMgithub%2Feventify-devops)
+
+- 
+
+        [Star
+          0](https://github.com/login?return_to=%2FSumanthAMgithub%2Feventify-devops)
+
+[Notifications](https://github.com/login?return_to=%2FSumanthAMgithub%2Feventify-devops)
+[Fork
+    0](https://github.com/login?return_to=%2FSumanthAMgithub%2Feventify-devops)
+[Star
+          0](https://github.com/login?return_to=%2FSumanthAMgithub%2Feventify-devops)
+- 
+  [Code](https://github.com/SumanthAMgithub/eventify-devops)
+- 
+  [Issues
+          0](https://github.com/SumanthAMgithub/eventify-devops/issues)
+- 
+  [Pull requests
+          0](https://github.com/SumanthAMgithub/eventify-devops/pulls)
+- 
+  [Actions](https://github.com/SumanthAMgithub/eventify-devops/actions)
+- 
+  [Projects](https://github.com/SumanthAMgithub/eventify-devops/projects)
+- 
+  [Security and quality
+          0](https://github.com/SumanthAMgithub/eventify-devops/security)
+- 
+  [Insights](https://github.com/SumanthAMgithub/eventify-devops/pulse)
+[Code](https://github.com/SumanthAMgithub/eventify-devops)
+[Issues
+          0](https://github.com/SumanthAMgithub/eventify-devops/issues)
+[Pull requests
+          0](https://github.com/SumanthAMgithub/eventify-devops/pulls)
+[Actions](https://github.com/SumanthAMgithub/eventify-devops/actions)
+[Projects](https://github.com/SumanthAMgithub/eventify-devops/projects)
+[Security and quality
+          0](https://github.com/SumanthAMgithub/eventify-devops/security)
+[Insights](https://github.com/SumanthAMgithub/eventify-devops/pulse)
+- 
+
+
+    [Code](https://github.com/SumanthAMgithub/eventify-devops)
+
+
+- 
+
+
+    [Issues](https://github.com/SumanthAMgithub/eventify-devops/issues)
+
+
+- 
+
+
+    [Pull requests](https://github.com/SumanthAMgithub/eventify-devops/pulls)
+
+
+- 
+
+
+    [Actions](https://github.com/SumanthAMgithub/eventify-devops/actions)
+
+
+- 
+
+
+    [Projects](https://github.com/SumanthAMgithub/eventify-devops/projects)
+
+
+- 
+
+
+    [Security and quality](https://github.com/SumanthAMgithub/eventify-devops/security)
+
+
+- 
+
+
+    [Insights](https://github.com/SumanthAMgithub/eventify-devops/pulse)
+
+
+[Code](https://github.com/SumanthAMgithub/eventify-devops)
+[Issues](https://github.com/SumanthAMgithub/eventify-devops/issues)
+[Pull requests](https://github.com/SumanthAMgithub/eventify-devops/pulls)
+[Actions](https://github.com/SumanthAMgithub/eventify-devops/actions)
+[Projects](https://github.com/SumanthAMgithub/eventify-devops/projects)
+[Security and quality](https://github.com/SumanthAMgithub/eventify-devops/security)
+[Insights](https://github.com/SumanthAMgithub/eventify-devops/pulse)
+
+## Actions
+
+- 
+
+
+    [All workflows](https://github.com/SumanthAMgithub/eventify-devops/actions)
+
+
+- 
+- 
+
+
+
+
+
+
+    Workflows
+
+
+
+
+
+
+    CI/CD Pipeline
+    [CI/CD Pipeline](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/ci-cd.yml)
+
+
+
+
+
+
+
+    PR Check
+    [PR Check](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/pr-check.yml)
+
+
+
+
+
+
+
+
+
+
+
+                        Show more workflows...
+
+
+
+
+
+
+
+
+
+
+
+- 
+
+    CI/CD Pipeline
+    [CI/CD Pipeline](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/ci-cd.yml)
+
+
+- 
+
+    PR Check
+    [PR Check](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/pr-check.yml)
+
+
+- 
+- 
+
+
+
+
+
+
+    Management
+
+
+
+
+
+
+
+    [Caches](https://github.com/SumanthAMgithub/eventify-devops/actions/caches)
+
+
+
+
+
+
+
+
+- 
+
+
+    [Caches](https://github.com/SumanthAMgithub/eventify-devops/actions/caches)
+
+
+[All workflows](https://github.com/SumanthAMgithub/eventify-devops/actions)
+
+### Workflows
+- 
+
+    CI/CD Pipeline
+    [CI/CD Pipeline](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/ci-cd.yml)
+
+
+- 
+
+    PR Check
+    [PR Check](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/pr-check.yml)
+
+
+[CI/CD Pipeline](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/ci-cd.yml)
+[PR Check](https://github.com/SumanthAMgithub/eventify-devops/actions/workflows/pr-check.yml)
+
+### Management
+- 
+
+
+    [Caches](https://github.com/SumanthAMgithub/eventify-devops/actions/caches)
+
+
+[Caches](https://github.com/SumanthAMgithub/eventify-devops/actions/caches)
+
+# Actions
+
+##### Loading...
+
+##### Sorry, something went wrong.
+
+### Uh oh!
+
+There was an error while loading. [Please reload this page](https://github.com/SumanthAMgithub/eventify-devops/actions).
+
+## No matching users.
+
+[fix: add CONVEX_DEPLOYMENT env, fix deprecated images.domains in next…](https://github.com/SumanthAMgithub/eventify-devops/actions/runs/25999421049)
+[cd672cf](https://github.com/SumanthAMgithub/eventify-devops/commit/cd672cf68f68857cf6a3e6c6b655bc9f7f945983)
+[SumanthAMgithub](https://github.com/SumanthAMgithub)
+[main](https://github.com/SumanthAMgithub/eventify-devops/tree/refs/heads/main)
+[main](https://github.com/SumanthAMgithub/eventify-devops/tree/refs/heads/main)
+- 
+                    [View workflow file](https://github.com/SumanthAMgithub/eventify-devops/actions/runs/25999421049/workflow)
+
+[View workflow file](https://github.com/SumanthAMgithub/eventify-devops/actions/runs/25999421049/workflow)
