@@ -42,3 +42,13 @@ next-env.d.ts
 
 # clerk configuration (can include secrets)
 /.clerk/
+
+# Docker
+docker-volumes/
+
+# Monitoring data (persisted in Docker volumes)
+monitoring/grafana/data/
+monitoring/prometheus/data/
+
+# Deploy secrets
+deploy/.env

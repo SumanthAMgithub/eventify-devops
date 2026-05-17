@@ -1,0 +1,139 @@
+# ============================================
+# Production Docker Compose (EC2)
+# ============================================
+# This file is used on the EC2 instance.
+# It pulls pre-built images from Docker Hub
+# instead of building locally.
+# ============================================
+
+services:
+  # ----------------------------------------
+  # Next.js Application (from Docker Hub)
+  # ----------------------------------------
+  app:
+    image: ${DOCKER_IMAGE}:latest
+    container_name: eventify-app
+    restart: unless-stopped
+    expose:
+      - "3000"
+    environment:
+      - NODE_ENV=production
+      - CLERK_SECRET_KEY=${CLERK_SECRET_KEY}
+      - CLERK_JWT_ISSUER_DOMAIN=${CLERK_JWT_ISSUER_DOMAIN}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
+        reservations:
+          cpus: '0.25'
+          memory: 256M
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    networks:
+      - eventify-network
+
+  # ----------------------------------------
+  # Nginx Reverse Proxy
+  # ----------------------------------------
+  nginx:
+    image: nginx:alpine
+    container_name: eventify-nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      app:
+        condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "5m"
+        max-file: "3"
+    networks:
+      - eventify-network
+
+  # ----------------------------------------
+  # Prometheus
+  # ----------------------------------------
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: eventify-prometheus
+    restart: unless-stopped
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--storage.tsdb.retention.time=30d'
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+    networks:
+      - eventify-network
+
+  # ----------------------------------------
+  # Grafana
+  # ----------------------------------------
+  grafana:
+    image: grafana/grafana:latest
+    container_name: eventify-grafana
+    restart: unless-stopped
+    ports:
+      - "3001:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GRAFANA_USER:-admin}
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD:-admin}
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_SERVER_ROOT_URL=http://localhost:3001
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+    depends_on:
+      - prometheus
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+    networks:
+      - eventify-network
+
+  # ----------------------------------------
+  # Node Exporter
+  # ----------------------------------------
+  node-exporter:
+    image: prom/node-exporter:latest
+    container_name: eventify-node-exporter
+    restart: unless-stopped
+    expose:
+      - "9100"
+    networks:
+      - eventify-network
+
+networks:
+  eventify-network:
+    driver: bridge
+
+volumes:
+  prometheus-data:
+  grafana-data:
