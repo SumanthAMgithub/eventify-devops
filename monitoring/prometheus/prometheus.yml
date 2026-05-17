@@ -25,10 +25,9 @@ scrape_configs:
         labels:
           service: 'system'
 
-  # Nginx — Web server metrics
+  # Nginx — Web server metrics (via nginx-exporter)
   - job_name: 'nginx'
-    metrics_path: /nginx_status
     static_configs:
-      - targets: ['nginx:80']
+      - targets: ['nginx-exporter:9113']
         labels:
           service: 'nginx'

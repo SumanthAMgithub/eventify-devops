@@ -130,6 +130,22 @@ services:
     networks:
       - eventify-network
 
+  # ----------------------------------------
+  # Nginx Prometheus Exporter
+  # ----------------------------------------
+  nginx-exporter:
+    image: nginx/nginx-prometheus-exporter:latest
+    container_name: eventify-nginx-exporter
+    restart: unless-stopped
+    command:
+      - '--nginx.scrape-uri=http://nginx:80/nginx_status'
+    expose:
+      - "9113"
+    depends_on:
+      - nginx
+    networks:
+      - eventify-network
+
 networks:
   eventify-network:
     driver: bridge
